@@ -7,7 +7,7 @@
 [image3]: ./img/img4.jpg
 [image5]: ./img/img5.jpg
 [image6]: ./img/img6.jpg
-[image7]: ./img/img7.jpg
+[image7]: ./img/img7.png
 
 #### Thanks to udacity , slack members , and whole lot of youtube scientist for helping me out with this project . ... :)
 
