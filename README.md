@@ -7,9 +7,11 @@
 [image3]: ./img/img4.jpg
 [image5]: ./img/img5.jpg
 [image6]: ./img/img6.jpg
+[image7]: ./img/img7.jpg
 
-#### Thanks to udacity and whole lot of youtube scientist for helping me out with this project . ... :)
+#### Thanks to udacity , slack members , and whole lot of youtube scientist for helping me out with this project . ... :)
 
+![alt text][image7]
 
 #### 1. Run the forward_kinematics demo and evaluate the kr210.urdf.xacro file to perform kinematic analysis of Kuka KR210 robot and derive its DH parameters.
 
