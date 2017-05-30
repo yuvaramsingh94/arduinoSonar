@@ -1,5 +1,14 @@
 ## pick and place robot project 
 
+[//]: # (Image References)
+[image1]: ./img/car_notcar.jpg
+[image2]: ./img/hog.jpg
+[image4]: ./img/pipeline.jpg
+[image3]: ./img/searching_window.jpg
+
+
+
+
 #### 1. Run the forward_kinematics demo and evaluate the kr210.urdf.xacro file to perform kinematic analysis of Kuka KR210 robot and derive its DH parameters.
 
 the above image shows how i comeup with axis plotting and DH parameters . following is the steps which i followed to achive this
